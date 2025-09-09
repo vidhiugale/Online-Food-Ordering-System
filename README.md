@@ -53,6 +53,7 @@ Technologies Used:
 MySQL
 
 1 Stores user data (name, email, password)
+
 2 Menu items (name, price, category, image)
 
 

@@ -18,24 +18,40 @@ This system is useful for restaurants, cafes, and food delivery services to stre
 ● Search and Filter Menu Items
 
 🖥️ Frontend (User Interface):
+
 Technologies Used:
-HTML – Structure of the webpages
-CSS – Styling the webpages (colors, layout, fonts)
-JavaScript – Interactivity (like cart updates, form validation)
+
+● HTML – Structure of the webpages
+
+● CSS – Styling the webpages (colors, layout, fonts)
+
+● JavaScript – Interactivity (like cart updates, form validation)
+
 Sample Pages:
+
 1 Home Page
+
 2 Menu Page
+
 3 Cart Page
+
 4 Checkout Page
+
 5 Login/Register Page
 
+
 🛠️ Backend (Server-Side Logic):
+
 Technologies Used:
+
 PHP – Handles server-side logic like form submission, order processing, login authentication, etc.
 
 🗄️ Database:
+
 Technologies Used:
+
 MySQL
+
 1 Stores user data (name, email, password)
 2 Menu items (name, price, category, image)
 

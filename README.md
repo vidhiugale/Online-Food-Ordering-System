@@ -4,11 +4,17 @@ An Online Food Ordering System is a web-based application that allows customers 
 This system is useful for restaurants, cafes, and food delivery services to streamline operations and improve customer convenience.
 
 🌟 Key Features:
+
 ● User Registration & Login
+
 ● Browse Menu with Categories
+
 ● Add to Cart & Modify Orders
+
 ● Online Payment & COD option
+
 ● Customer Feedback and Ratings
+
 ● Search and Filter Menu Items
 
 🖥️ Frontend (User Interface):

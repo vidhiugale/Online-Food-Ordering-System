@@ -1,6 +1,6 @@
 # Online-Food-Ordering-System
 An online food ordering system is a digital platform that allows customers to browse menus, place orders, and make payments for food from restaurants via the internet.
-An Online Food Ordering System is a web-based application that allows customers to browse a restaurant's menu, place food orders, and make payments online. It facilitates seamless interaction between customers and restaurant staff, enhances order management, and provides real-time updates on order status.
+An Online Food Ordering System is a web-based application that allows customers to browse a restaurant's menu, place food orders, and make payments online. 
 This system is useful for restaurants, cafes, and food delivery services to streamline operations and improve customer convenience.
 
 ![image_alt](https://raw.githubusercontent.com/vidhiugale/Online_Food_Ordering_System/352a2b2998be4292ca5e3139ca3eab9072ab18c4/Screenshot%202025-05-08%20101705.png)

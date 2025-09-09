@@ -1,0 +1,41 @@
+#About
+<?php
+session_start();
+
+// Enable error reporting for debugging
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="aboutContact.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+
+<div class="container">
+    <h2>About Us</h2>
+    <p>Welcome to Delicious Eats! 🍽️</p>
+    <p>We are a passionate team of food lovers dedicated to bringing your favorite meals to your doorstep. Whether you're craving spicy Indian curry, cheesy pizza, or sweet desserts, we've got something for every taste.</p>
+    <p>Our mission is to deliver high-quality, delicious food from the best restaurants in town straight to your home. Fast, fresh, and affordable – that's our promise to you!</p>
+
+    <h3>Why Choose Us?</h3>
+    <ul>
+        <li>✅ Curated menus from top-rated restaurants</li>
+        <li>✅ Multiple secure payment options</li>
+        <li>✅ Easy ordering & real-time updates</li>
+        <li>✅ Excellent customer support</li>
+    </ul>
+
+    <p>Thank you for choosing FoodZone. We hope to make every meal memorable!</p>
+
+    <!-- Link back to the home page -->
+    <p><a href="indexx.html">Back to Home</a></p>
+</div>
+
+</body>
+</html>
